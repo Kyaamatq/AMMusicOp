@@ -1,8 +1,8 @@
-# This code is written by (C) AMBOT bot will send message to log group when someone add
+# This code is written by (C) kasam1k bot will send message to log group when someone add
 # this bot to new group make sure to star all projects
-# Copyright (C) 2021-2022 by AM_YTSUPPRT@ Github, < AMBOT >.
-# A Powerful Music Bot Property Of AMBOT
-# All rights reserved. © AMBOT
+# Copyright (C) 2021-2022 by kasam1k@ Github, < Kyaamatq >.
+# A Powerful Music Bot Property Of kasam1k
+# All rights reserved. © kasam1k
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
