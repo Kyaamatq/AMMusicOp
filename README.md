@@ -3,18 +3,18 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://graph.org/file/cbce6e62048c493020ca4.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT/AMMusicOp/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMMusicOp?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AbhiModszYT/AMMusicOp/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AMMusicOp?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AbhiModszYT/AMMusicOp/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Kyaamatq/AMMusicOp/stargazers"><img src="https://img.shields.io/github/stars/Kyaamatq/AMMusicOp?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AbhiModszYT/AMMusicOp/network/members"> <img src="https://img.shields.io/github/forks/Kyaamatq/AMMusicOp?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Kyaamatq/AMMusicOp/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AbhiModszYT/AMMusicOp/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMMusicOp?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Kyaamatq/AMMusicOp/commits/Kyaamatq"> <img src="https://img.shields.io/github/last-commit/Kyaamatq/AMMusicOp?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## Features Of AMMusic And Commands ❤️
+## Features Of RoMusic And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -111,13 +111,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/AMMusicOp"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Kyaamatq/AMMusicOp"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AbhiModszYT/AMMusicOp/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Kyaamatq/AMMusicOp/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -129,7 +129,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AbhiModszYT/AMMusicOp && cd AMMusicOp`
+`git clone https://github.com/Kyaamatq/AMMusicOp && cd AMMusicOp`
 - Install requirements by :
 `pip3 install -r requirements.txt`
 - Fill your variables in the env by :
@@ -150,11 +150,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/AM_YTSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_friendss_chatting_group_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AbhiModszYT_Return"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_friendss_chatting_group_ll"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 # Owner And Credit
@@ -166,21 +166,21 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://telegram.dog/AM_YTBOTT)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
+- [AbhiModszYT](https://telegram.dog/kasam1k)
+- [ʏᴜᴋᴋɪ](https://github.com/Kyaamatq)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 </details>
 
 </h3>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="AbhiModszYT" /> </a>
+<a href="https://github.com/Kyaamatq"> <img src="https://img.shields.io/badge/Kyaamatq-black?style=for-the-badge&logo=github" alt="Kyaamatq" /> </a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AMMusicOp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AMMusicOp&theme=chartreuse-dark"></a>
+<a href="https://github.com/Kyaamatq/AMMusicOp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaamatq&repo=AMMusicOp&theme=chartreuse-dark"></a>
 
 
 
