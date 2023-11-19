@@ -118,12 +118,7 @@
           },
           {
               "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-          }{ 
-   "CHAT": {
-      "description":  " Add your chat channel link",
-      "value": "https://t.me/ll_friendss_chatting_group_ll",
-      "required": false
-   },
+          } 
       ],
       "stack": "container"
   }
