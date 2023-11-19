@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by AM_YTSUPPRT@Github, < https://github.com/AbhiModszYT >.
-# A Powerful Music Bot Property Of AMBOT
+# Copyright (C) 2021-2022 by kasam1k@Github, < https://github.com/Kyaamatq >.
+# A Powerful Music Bot Property Of kasam1k
 
-# Modified By © @AM_YTBOTT
-# All rights reserved. © AMBOT
+# Modified By © @kasam1k
+# All rights reserved. © kasam1k
 
 
 import asyncio
