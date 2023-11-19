@@ -1,14 +1,14 @@
 {
-    "name": "Sophia Music",
+    "name": "Royaal Music",
     "description": "Deploy AM music on railwey make sure to star the projecte.",
     "logo": "https://graph.org/file/dfb6e6bc472b50261a825.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AMBOT",
-    "AMMusic",
-    "AMMusicbot",
+    "kasam1k",
+    "RoMusic",
+    "Royaalmusicbot",
     "pyrogram"
     ],
     "stack": "container",
@@ -25,12 +25,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6204778219:AAGJJUdJ_hgmJ6uJHpzuz2CfSpunMgr-Tus",
+        "value": "6780542824:AAG9Ba9sUraH85YW-0Mwj3T58lmgyxjpPxo",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5936447416",
+        "value": "5134863200",
         "required": true
       },        
       "MONGO_DB_URI": {
@@ -50,17 +50,17 @@
       },
     "BOT_NAME": {
         "description": "Bot Name",
-        "value": "𝐂𝐔𝐓𝐄 𝐁𝐀𝐁𝐘",
+        "value": "Fantastic music◄",
         "required": false
       },
         "MUSIC_BOT_NAME": {
         "description": "Bot Name V2",
-        "value": "𝐂𝐔𝐓𝐄 𝐁𝐀𝐁𝐘",
+        "value": "Fantastic music◄",
         "required": false
       },
     "BOT_ID": {
         "description": "Bot Id",
-        "value": "6406514241",
+        "value": "6365846897",
         "required": false
       },
     "AUTO_LEAVING_ASSISTANT": {
@@ -70,7 +70,7 @@
       },
     "OWNER_USERNAME": {
         "description": "Owner Usename",
-        "value": "@Rocky_terabaap",
+        "value": "@Havhukiy",
         "required": false
       },
     "START_IMG_URL": {
@@ -105,7 +105,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "-1002146105193",
+        "value": "-1002012379060",
         "required": true
       }
     },
@@ -121,7 +121,7 @@
           }{ 
    "CHAT": {
       "description":  " Add your chat channel link",
-      "value": "https://t.me/TermuxXYZTool",
+      "value": "https://t.me/ll_friendss_chatting_group_ll",
       "required": false
    },
       ],
