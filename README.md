@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 AMMusic 」──
+    ──「 RoMusic 」──
 </h2>
 
 <p align="center">
@@ -166,7 +166,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://telegram.dog/kasam1k)
+- [ROYAAL](https://telegram.dog/kasam1k)
 - [ʏᴜᴋᴋɪ](https://github.com/Kyaamatq)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 </details>
