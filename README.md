@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 RoMusic 」──
+    ──「 AmMusic 」──
 </h2>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <a href="https://github.com/Kyaamatq/AMMusicOp/commits/Kyaamatq"> <img src="https://img.shields.io/github/last-commit/Kyaamatq/AMMusicOp?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## Features Of RoMusic And Commands ❤️
+## Features Of AMMusic And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
