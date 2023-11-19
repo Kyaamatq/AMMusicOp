@@ -1,4 +1,4 @@
-# AMBOT
+# kasam1k
 
 from AMMusic import app
 from pyrogram import filters
