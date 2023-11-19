@@ -6,9 +6,9 @@
     "python3",
     "telegram",
     "bot",
-    "kasam1k",
-    "RoMusic",
-    "Royaalmusicbot",
+    "AMBOT",
+    "AMMusic",
+    "AMMusicbot",
     "pyrogram"
     ],
     "stack": "container",
@@ -70,7 +70,7 @@
       },
     "OWNER_USERNAME": {
         "description": "Owner Usename",
-        "value": "@Havhukiy",
+        "value": "Havhukiy",
         "required": false
       },
     "START_IMG_URL": {
