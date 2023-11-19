@@ -1,7 +1,7 @@
 #
-# Copyright (C) 2021-2022 by AM_YTSUPPRT@Github, < https://github.com/AM_YTSUPPORT >.
-# A Powerful Music Bot Property Of AMBOT
-# All rights reserved. © AMBOT © Alexa
+# Copyright (C) 2021-2022 by kasam1k@Github, < https://github.com/Kyaamatq >.
+# A Powerful Music Bot Property Of kasam1k
+# All rights reserved. © kasam1k © Alexa
 
 
 import random
