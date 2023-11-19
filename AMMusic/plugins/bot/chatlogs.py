@@ -7,12 +7,12 @@ from config import LOG, LOGS, LOG_GROUP_ID
 from AMMusic import app  
 
 photo = [
-    "https://telegra.ph/file/0c87c715c94cee2322a4b.jpg",
-    "https://telegra.ph/file/7483763c4d8dc3f2720cb.jpg",
-    "https://telegra.ph/file/4500be253b16522c8d8f1.jpg",
-    "https://telegra.ph/file/fbe8a40e9ee3741b3be2d.jpg",
-    "https://telegra.ph/file/1eb67c100ff8029ae585a.jpg",
-    "https://telegra.ph/file/329af57b84f7c76f997ef.jpg",
+    "https://graph.org/file/44083bf7d2fd4ca820196.jpg",
+    "https://graph.org/file/cbce6e62048c493020ca4.jpg",
+    "https://graph.org/file/dc55b785e3e2c7b0026fa.jpg",
+    "https://graph.org/file/9256adef6b49b1ffeadf6.jpg",
+    "https://graph.org/file/63cfa711a7d395aab4e29.jpg",
+    "https://graph.org/file/7cce9b4b285e80716d8b3.jpg",
 ]
 
 
