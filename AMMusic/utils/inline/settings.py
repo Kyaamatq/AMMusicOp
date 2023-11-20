@@ -24,7 +24,7 @@ def setting_markup(_):
         [
             InlineKeyboardButton(
                 text="• Sᴜᴩᴩᴏʀᴛ •",
-                url="https://t.me/AM_YTSUPPORT",
+                url="https://t.me/ll_friendss_chatting_group_ll",
             ),
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
