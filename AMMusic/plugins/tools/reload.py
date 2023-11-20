@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by AM_YTSUPPRT@Github, < https://github.com/AM_YTSUPPORT >.
-# A Powerful Music Bot Property Of AMBOT
+# Copyright (C) 2021-2022 by kasam1k@Github, < https://github.com/Kyaamatq >.
+# A Powerful Music Bot Property Of kasam1k
 
-# Kanged By © @AM_YTBOTT
-# All rights reserved. © AMBOT
+# Kanged By © @kasam1k
+# All rights reserved. © kasam1k
 
 
 import asyncio
@@ -84,7 +84,7 @@ async def close_menu(_, CallbackQuery):
         await CallbackQuery.message.delete()
         await CallbackQuery.answer()
         await CallbackQuery.message.reply_text(
-            f"𝓒𝓵𝓸𝓼𝓮𝓭 𝓑𝔂 ➣ {CallbackQuery.from_user.mention}"
+            f"Royaal by ➣ {CallbackQuery.from_user.mention}"
         )
     except Exception as e:
         print(e)
