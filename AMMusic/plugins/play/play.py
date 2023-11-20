@@ -1,10 +1,10 @@
 #
-# Copyright (C) 2021-2022 by AM_YTSUPPRT@Github, < https://github.com/AbhiModszYT >.
-# A Powerful Music Bot Property Of AMBOT
+# Copyright (C) 2021-2022 by kasam1k@Github, < https://github.com/Kyaamatq >.
+# A Powerful Music Bot Property Of kasam1k
 
-# Kanged By © @AM_YTBOTT
+# Kanged By © @kasam1k
 # Owner AMBOT
-# All rights reserved. © AMBOT
+# All rights reserved. © kasam1k
 
 
 import random
