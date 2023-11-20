@@ -1,4 +1,6 @@
-# A Powerful Music Bot Property Of AMBOT
+# A Powerful Music Bot Property Of kasam1k
+
+OT
 # Without Credit (Mother Fucker)
 # Rocks © @Dr_Asad_Ali © Rocks
 # Owner Asad Ali
