@@ -1,6 +1,6 @@
 """"
-AMBOT is a Telegram Audio and video streaming bot 
-Copyright (c) 2022 -present AM <https://github.com/AbhiModszYT>
+ROYAAL is a Telegram Audio and video streaming bot 
+Copyright (c) 2022 -present AM <https://github.com/Kyaamatq>
 
 This program is free software: you can redistribute it and can modify
 as you want.
